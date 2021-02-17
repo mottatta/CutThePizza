@@ -1,0 +1,133 @@
+{
+  "_meta": {
+    "maxChars": {
+	"order": 55,
+	
+	"explain_cutting": 120,
+	"explain_marking": 120,
+	"marking_error": 120,
+	
+	"pre_level_1_1": 155,
+	"pre_level_1_2": 155,
+	"pre_level_1_3": 155,
+	"pre_level_1_4": 155,
+	
+	"pre_level_2_1": 155,
+	"pre_level_2_2": 155,
+	
+	"pre_level_3_1": 155,
+	"pre_level_3_2": 155,
+	
+	"pre_level_4_1": 155,
+	"pre_level_4_2": 155,
+
+	"pre_level_5_1": 155,
+	"pre_level_5_2": 155,
+	"pre_level_5_3": 155,
+	"pre_level_5_4": 155,
+	
+	"level_1_1": 120,
+	"level_1_2": 120,
+	"level_1_3": 120,
+	"level_1_4": 120,
+	"level_1_error": 120,
+	
+	"level_2_1": 120,
+	"level_2_2": 120,
+	"level_2_3": 120,
+	"level_2_4": 120,
+	"level_2_5": 120,
+	"level_2_6": 120,
+	"level_2_7": 120,
+
+	"level_4_2_4": 120,
+	"level_4_3_6": 120,
+	"level_4_4_8": 120,
+	"level_4_5_10": 120,
+	"level_4_6_12": 120,
+	"level_4_4_6": 120,
+	"level_4_6_9": 120,
+	"level_4_8_12": 120,
+	"level_4_6_8": 120,
+	"level_4_9_12": 120,
+	"level_4_well_done": 120,
+	"level_4_wrong": 120,
+
+	"level_4_instructions": 220 
+    }
+  },
+  "en": {
+		"order": "Order is",
+		
+		"explain_cutting": "Type the letter shown in the pulsing points to cut the pizza.",
+		"explain_marking": "Click on a piece to mark it. Mark the required amount of pieces.",
+		"marking_error": "The marked pieces count should be equal to the numerator.",
+		
+		"pre_level_1_1": "Hello kid! My name is Govani. I have a pizza restaurant.",
+		"pre_level_1_2": "All my employees went to a rock concert, and I need someone to help me!",
+		"pre_level_1_3": "Would you help me?", 
+		"pre_level_1_4": "Don't worry, it's an easy job for a smart kid like you!",
+		
+		"level_1_1": "Hello! I would like 2/5 pizza with ham please!",
+		"level_1_2": "Thanks! I would also like 3/4 pizza with mushrooms.",
+		"level_1_3": "Thanks! Have a nice day!",
+		"level_1_4": "Hello! I would like 4/10 vegetarian pizza please!",
+		"level_1_5": "Thanks! I would also like 9/12 pizza with mushrooms.",
+		"level_1_6": "Thanks! Have a nice day!",
+		"level_1_error": "I didn't order that!",
+		
+		"pre_level_2_1": "Great job kid! Thanks for helping me!",
+		"pre_level_2_2": "Now take a good rest, see you tomorrow!",
+		
+		"level_2_1": "Hello! I would like to ask you something.",
+		"level_2_2": "Yesterday, I bought 2/5 pizza with ham.",
+		"level_2_3": "My friend bought 4/10 vegetarian pizza and paid the same price as me.",
+		"level_2_4": "Is ham pizza more expensive because I paid same price for less pieces?",
+		"level_2_5": "No, no, no! They are the same price! Let me show you!",
+		"level_2_6": "Here we have pizza cut into 5 pieces, and two of them are marked.",
+		"level_2_7": "Type the letter shown in the pulsing points to cut each piece in 2 smaller pieces.",
+		"level_2_8": "Now the pizza has 2 times more pieces and 2 times more marked pieces.",
+		"level_2_9": "But as you can see the marked area stays the same.",
+		"level_2_10": "So if we multiply the numerator and denominator with the same value we get an equal fraction.",
+		"level_2_11": "Let's check a different fraction. This pizza has 4 pieces and 3 of them marked.",
+		"level_2_12": "Type the letter shown in the pulsing points to cut each piece in 3 smaller pieces.",
+		"level_2_13": "Great! Now we have 12 pieces in total, 9 of them are marked, but the marked area didn't change.",
+		"level_2_14": "I hope this explains your question!",
+		"level_2_15": "Thank you for explaining it to me!",
+		"level_2_16": "But why do we get equal fraction, if we multiply numerator and denominator with same value?",
+		"level_2_17": "Let me explain it to you.",
+		"level_2_18": "Type the letter shown in the pulsing points to cut the pizza.",
+		"level_2_19": "Now mark all pieces by clicking on them.",
+		"level_2_20": "As you can see, when numerator and denominator are the same it represents the whole pizza.",
+		"level_2_21": "So when we multiply the numerator and denominator with same value, it's the same as if we multiply by 1.",
+		"level_2_22": "Hope it's clear now.",
+		"level_2_23": "Yes it is clear. Thank you very much and have a nice day",
+		"level_2_24": "Have a nice day kid!",
+		
+		"pre_level_3_1": "Now I need you to put some already made pizzas in boxes.",
+		"pre_level_3_2": "Drag and drop every pizza in a box with a fraction that is equal to the pizza fraction.",
+		
+		"pre_level_4_1": "Wow! We made it kid! Thank you so much!",
+		"pre_level_4_2": "My employees are back in the restaurant, and you can go back to math classes!",
+		
+		"pre_level_5_1": "My employees were in such a hurry for the concert, they cut wrong some of the pizza.",
+		"pre_level_5_2": "Don't worry! We have special machines that will help us fix that.",
+		"pre_level_5_3": "Each machine multiplies pizza numerator and denominator with specific number.",
+		"pre_level_5_4": "Let's do that!",
+
+		"level_4_2_4": "This pizza should be cut to 2/4.",
+		"level_4_3_6": "This pizza should be cut to 3/6.",
+		"level_4_4_8": "This pizza should be cut to 4/8.",
+		"level_4_5_10": "This pizza should be cut to 5/10.",
+		"level_4_6_12": "This pizza should be cut to 6/12.",
+		"level_4_4_6": "This pizza should be cut to 4/6.",
+		"level_4_6_9": "This pizza should be cut to 6/9.",
+		"level_4_8_12": "This pizza should be cut to 8/12.",
+		"level_4_6_8": "This pizza should be cut to 6/8.",
+		"level_4_9_12": "This pizza should be cut to 9/12.",
+		"level_4_well_done": "Well done!",
+		"level_4_wrong": "That is not correct! Try again to find the path to the correct machine.",
+
+		"level_4_instructions": "INSTRUCTIONS: \n Click on red parts to change the path, then click play button to move pizza to the correct machine." 
+  }
+}
